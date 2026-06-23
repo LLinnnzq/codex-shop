@@ -1,11 +1,11 @@
 :root {
-  --paper: #f7f1e6;
+  --paper: #f3efe7;
   --ink: #161514;
   --muted: #6b6258;
-  --green: #213f34;
-  --green-2: #315d4d;
-  --burgundy: #7d2d35;
-  --gold: #d4a24b;
+  --green: #1d372f;
+  --green-2: #2b4c42;
+  --burgundy: #5a2930;
+  --gold: #c49a4a;
   --line: rgba(22, 21, 20, 0.14);
   --panel: #fffaf0;
   --shadow: 0 22px 60px rgba(38, 30, 23, 0.16);
@@ -299,7 +299,7 @@ a {
 }
 
 .cover-book {
-  background-color: #3e4652;
+  background-color: #313a42;
 }
 
 .cover-art {
@@ -394,7 +394,7 @@ a {
   justify-content: space-between;
   gap: 28px;
   padding: clamp(52px, 7vw, 84px) clamp(18px, 5vw, 64px);
-  background: var(--burgundy);
+  background: #2d3032;
   color: #fffaf0;
 }
 
